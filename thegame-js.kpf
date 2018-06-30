@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="ec0443bf-b425-4951-ab6b-c276e115e629" kpf_version="4" name="thegame-js.kpf">
+<preference-set idref="ec0443bf-b425-4951-ab6b-c276e115e629">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
